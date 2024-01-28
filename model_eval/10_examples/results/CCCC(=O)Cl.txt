@@ -1,0 +1,7 @@
+{'overall_routes': [[['CCCC(=O)Cl', 'CCCC(=O)O'], 0.025377575308084488, 'chem'], [['CCCC(=O)O', 'CCCCO'], 0.0188392773270607, 'bio']], 'overall_score': 0.04421685263514519}
+{'overall_routes': [[['CCCC(=O)Cl', 'CCCC(=O)OC(=O)CCC'], 0.26245492696762085, 'chem'], [['CCCC(=O)OC(=O)CCC', 'CC(=O)OC(C)=O'], 0.0567060150206089, 'bio']], 'overall_score': 0.31916094198822975}
+{'overall_routes': [[['CCCC(=O)Cl', 'CCCC(=O)O'], 0.025377575308084488, 'chem'], [['CCCC(=O)O', 'C/C=C/C(=O)O'], 0.40044647455215454, 'bio']], 'overall_score': 0.42582404986023903}
+{'overall_routes': [[['CCCC(=O)Cl', 'CCCC(=O)O'], 0.025377575308084488, 'chem'], [['CCCC(=O)O', 'C/C=C\\C(=O)O'], 0.4007974863052368, 'bio']], 'overall_score': 0.4261750616133213}
+{'overall_routes': [[['CCCC(=O)Cl', 'O=C(Cl)C(=O)Cl'], 3.856488547171466e-05, 'chem'], [['O=C(Cl)C(=O)Cl', 'O=C(O)C(=O)O'], 0.925658106803894, 'bio']], 'overall_score': 0.9256966716893658}
+{'overall_routes': [[['CCCC(=O)Cl', 'CCCC(=O)O'], 0.025377575308084488, 'chem'], [['CCCC(=O)O', 'CC(C)(COP(=O)(O)OP(=O)(O)OC[C@H]1O[C@@H](n2cnc3c(N)ncnc32)[C@H](O)[C@@H]1OP(=O)(O)O)[C@@H](O)C(=O)NCCC(=O)NCCSC(=O)CCCO'], 0.9999802112579346, 'bio']], 'overall_score': 1.025357786566019}
+6

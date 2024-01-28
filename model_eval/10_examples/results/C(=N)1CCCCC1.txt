@@ -1,0 +1,5 @@
+{'overall_routes': [[['C(=N)1CCCCC1', 'O=C1CCCCC1'], 0.05016203597187996, 'chem'], [['O=C1CCCCC1', '[NH3+]C1CCCCC1'], 0.31292837858200073, 'bio']], 'overall_score': 0.3630904145538807}
+{'overall_routes': [[['C(=N)1CCCCC1', 'O=C1CCCCC1'], 0.05016203597187996, 'chem'], [['O=C1CCCCC1', 'NC1CCCCC1'], 0.4150941073894501, 'bio']], 'overall_score': 0.46525614336133003}
+{'overall_routes': [[['C(=N)1CCCCC1', 'O=C1CCCCC1'], 0.05016203597187996, 'chem'], [['O=C1CCCCC1', 'OC1CCCCC1'], 0.4604647755622864, 'bio']], 'overall_score': 0.5106268115341663}
+{'overall_routes': [[['C(=N)1CCCCC1', 'O=C1CCCCC1'], 0.05016203597187996, 'chem'], [['O=C1CCCCC1', 'O=[N+]([O-])C1CCCCC1'], 0.7441745400428772, 'bio']], 'overall_score': 0.7943365760147572}
+4

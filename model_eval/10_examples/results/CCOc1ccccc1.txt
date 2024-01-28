@@ -1,0 +1,9 @@
+{'overall_routes': [[['CCOc1ccccc1', 'Oc1ccccc1'], 5.8610039559425786e-05, 'chem'], [['Oc1ccccc1', 'c1ccccc1'], 0.333273708820343, 'bio']], 'overall_score': 0.33333231885990244}
+{'overall_routes': [[['CCOc1ccccc1', 'Oc1ccccc1'], 5.8610039559425786e-05, 'chem'], [['Oc1ccccc1', 'OB(O)c1ccccc1'], 0.9629932045936584, 'bio']], 'overall_score': 0.9630518146332179}
+{'overall_routes': [[['CCOc1ccccc1', 'Oc1ccccc1'], 5.8610039559425786e-05, 'chem'], [['Oc1ccccc1', 'O=P([O-])([O-])Oc1ccccc1'], 0.9951540231704712, 'bio']], 'overall_score': 0.9952126332100306}
+{'overall_routes': [[['CCOc1ccccc1', 'Oc1ccccc1'], 5.8610039559425786e-05, 'chem'], [['Oc1ccccc1', 'O=C([O-])c1ccccc1O'], 0.9954460859298706, 'bio']], 'overall_score': 0.99550469596943}
+{'overall_routes': [[['CCOc1ccccc1', 'Oc1ccccc1'], 5.8610039559425786e-05, 'chem'], [['Oc1ccccc1', 'CC(=O)Oc1ccccc1'], 0.9979828596115112, 'bio']], 'overall_score': 0.9980414696510707}
+{'overall_routes': [[['CCOc1ccccc1', 'Oc1ccccc1'], 5.8610039559425786e-05, 'chem'], [['Oc1ccccc1', 'O=C([O-])c1ccc(O)cc1'], 0.9980835914611816, 'bio']], 'overall_score': 0.9981422015007411}
+{'overall_routes': [[['CCOc1ccccc1', 'Oc1ccccc1'], 5.8610039559425786e-05, 'chem'], [['Oc1ccccc1', 'O=C([O-])Cc1ccccc1'], 0.9991897940635681, 'bio']], 'overall_score': 0.9992484041031275}
+{'overall_routes': [[['CCOc1ccccc1', 'Oc1ccccc1'], 5.8610039559425786e-05, 'chem'], [['Oc1ccccc1', 'N[C@@H](Cc1ccc(O)cc1)C(=O)O'], 0.9993419051170349, 'bio']], 'overall_score': 0.9994005151565943}
+8
